@@ -1,0 +1,2 @@
+# No third-party packages required: trade_journal.py uses only the Python
+# standard library. Chart.js is loaded from a CDN inside the dashboard HTML.
